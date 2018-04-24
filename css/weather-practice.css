@@ -1,0 +1,49 @@
+.haut
+{
+    display: flex;
+    height: 350px;
+    align-items: center;
+    background-image: url(ville_nuit.jpg);
+    color: #d8dadc;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black, 1px 1px 0 black, 1px -1px 0 black, -1px 1px 0 black, -1px 1px 0 black;
+}
+.bas
+{
+    height: 75px;
+}
+.col
+{
+    text-align: center;
+}
+.row
+{
+    margin: 20px;
+}
+.meteo
+{
+    font-size: 25px;
+}
+#ville
+{
+    font-size: 30px;
+}
+#temperature
+{
+    font-size: 50px;
+}
+.right
+{
+    text-align: right;
+}
+.jours
+{
+    font-size: 17px;
+}
+.miniweather
+{
+    height: 40px;
+}
+.mainCities
+{
+    background-color: aquamarine;
+}
